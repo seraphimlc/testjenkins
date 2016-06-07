@@ -7,5 +7,8 @@ public class Test {
         System.out.println("Test.main");
         System.out.println("args = " + args);
 
+
+        System.out.println("args = " + args);
+
     }
 }
